@@ -103,3 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Created by `pipx` on 2024-09-22 16:01:59
+export PATH="$PATH:/Users/jboltle/.local/bin"
